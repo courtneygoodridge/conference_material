@@ -1,4 +1,4 @@
-# conference_material
+# Conference materail
 
 This repository contains material from two conferences I have attended and presented posteres at within the last academic year:
 
